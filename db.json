@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "ravi",
+      "password": "ravi",
+      "email": "ravi@mail.com",
+      "dob": "2024-09-12",
+      "id": 1
+    },
+    {
+      "username": "kiran",
+      "password": "kiran",
+      "email": "kiran@gmail.com",
+      "dob": "2024-09-14",
+      "id": 2
+    },
+    {
+      "username": "vikas",
+      "password": "vikas",
+      "email": "vikas@mail.com",
+      "dob": "2024-09-15",
+      "id": 3
+    },
+    {
+      "username": "manasa",
+      "password": "manasa",
+      "email": "manasa@mail.com",
+      "dob": "2024-09-20",
+      "id": 4
+    },
+    {
+      "username": "mahesh",
+      "password": "mahesh",
+      "email": "mahesh@mail.com",
+      "dob": "2024-09-27",
+      "id": 5
+    },
+    {
+      "username": "banti",
+      "password": "banti",
+      "email": "banti@mail.com",
+      "dob": "2024-09-13",
+      "id": 6
+    }
+  ]
+}
